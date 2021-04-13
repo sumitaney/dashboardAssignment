@@ -185,9 +185,9 @@
         </div>
       </div>
     </div>
-       <NuxtLink to="/chat">
+       <!-- <NuxtLink to="/chat">
       <Button class=" bg-indigo-500 m-2 shadow rounded-lg text-white p-2">Route to Chat View Page</Button>
-    </NuxtLink>
+    </NuxtLink> -->
   </div>
 
 </template>
